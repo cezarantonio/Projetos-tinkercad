@@ -16,10 +16,17 @@ Bem-vindo ao meu espaço de criações no Tinkercad! Aqui você encontra meus pr
 
 ![Demonstração do Semáforo]()
 
-### 2. 
-* **Descrição:** 
+### 2.Sensor de distancia com som  
+* **Descrição:** sensor que emite um som se algo se aproxima de mais 
 * **Componentes:**
-* **Link do Tinkercad:** [Ver Projeto no Tinkercad]()
+* 1- Arduino Uno R3
+* 1- Piezo
+* 1- Sensor PIR
+* 2- Vermelho LED
+* 2- Verde LED
+* 1- Amarelo LED
+* 5- 1kΩ Resistor
+* **Link do Tinkercad:** [Ver Projeto no Tinkercad](https://www.tinkercad.com/things/hEZnIQrb2Xw-incredible-snaget/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=lWDYDoRpZ-XGmHPpYZfKSNGaFspXm6Q58WSH3X_8Taw)
 
 ![Demonstração do Semáforo]()
 
